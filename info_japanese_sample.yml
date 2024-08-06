@@ -1,0 +1,30 @@
+data:
+  header_info:
+    job: "データサイエンティスト"
+    my_name: "田中 太郎"
+    location: "東京、日本"
+    vertical_name: "Tanaka Taro" # ローマ字で入力してください。
+  about_me:
+    - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+    - "Cras quis placerat turpis. Suspendisse interdum sodales ante nec dapibus."
+    - "Sed ac nunc nec lorem cursus tincidunt in eget massa."
+  opinion:
+    - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+    - "Cras quis placerat turpis. Suspendisse interdum sodales ante nec dapibus."
+    - "Sed ac nunc nec lorem cursus tincidunt in eget massa."
+  histories:
+    - title: "東京 - 東京大学卒業"
+      period: "2013 - 2017"
+      description: "東京大学でコンピュータサイエンスの学士号を取得。"
+    - title: "大阪 - データサイエンティスト"
+      period: "2018 - 現在"
+      description: "日本の大手企業でデータ分析を担当。"
+  skills:
+    - title: "プログラミング"
+      items: ["Python", "R", "SQL"]
+    - title: "データ分析"
+      items: ["Pandas", "NumPy", "Tableau"]
+  certificates:
+    - title: "データサイエンス資格"
+      date: "取得年：2019年"
+      link: "https://www.example.com"

@@ -1,0 +1,30 @@
+data:
+  header_info:
+    job: "Desainer Grafis"
+    my_name: "Dewi Anggraini"
+    location: "Surabaya, Indonesia"
+    vertical_name: "Dewi Anggraini" # Harus alphabet.
+  about_me:
+    - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+    - "Cras quis placerat turpis. Suspendisse interdum sodales ante nec dapibus."
+    - "Sed ac nunc nec lorem cursus tincidunt in eget massa."
+  opinion:
+    - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+    - "Cras quis placerat turpis. Suspendisse interdum sodales ante nec dapibus."
+    - "Sed ac nunc nec lorem cursus tincidunt in eget massa."
+  histories:
+    - title: "Surabaya - Lulus dari Institut Seni Indonesia"
+      period: "2014 - 2018"
+      description: "Lulus dengan gelar Sarjana Desain."
+    - title: "Jakarta - Desainer Grafis di Agensi Kreatif"
+      period: "2018 - Sekarang"
+      description: "Mengerjakan berbagai proyek desain untuk klien nasional."
+  skills:
+    - title: "Desain Grafis"
+      items: ["Adobe Photoshop", "CorelDRAW", "Figma"]
+    - title: "Pengembangan Web"
+      items: ["HTML", "CSS", "JavaScript"]
+  certificates:
+    - title: "Sertifikat Desain Grafis Adobe"
+      date: "Tahun Penerimaan: 2019"
+      link: "https://www.example.com"

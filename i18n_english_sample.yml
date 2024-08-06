@@ -1,0 +1,10 @@
+data:
+  title: "Self Introduction Sheet"
+  about_me_title: "About Me"
+  opinion_title: "Opinion"
+  history_title: "History"
+  skills_title: "Skills"
+  certificates_title: "Certifications"
+  footer: "Design with 💙 by henryust12"
+  created_with: "Created with Tailwind CSS"
+  link_to_certificates_text: "Link to Certifications"

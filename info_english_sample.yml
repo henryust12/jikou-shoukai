@@ -1,0 +1,30 @@
+data:
+  header_info:
+    job: "Web Developer"
+    my_name: "John Doe"
+    location: "New York, USA"
+    vertical_name: "John Doe" # Please input in Roman letters.
+  about_me:
+    - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+    - "Cras quis placerat turpis. Suspendisse interdum sodales ante nec dapibus."
+    - "Sed ac nunc nec lorem cursus tincidunt in eget massa."
+  opinion:
+    - "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+    - "Cras quis placerat turpis. Suspendisse interdum sodales ante nec dapibus."
+    - "Sed ac nunc nec lorem cursus tincidunt in eget massa."
+  histories:
+    - title: "New York - Graduated from Columbia University"
+      period: "2015 - 2019"
+      description: "Graduated with a Bachelor of Science in Computer Science."
+    - title: "San Francisco - Web Developer at Tech Startup"
+      period: "2019 - Present"
+      description: "Working on various web development projects for global clients."
+  skills:
+    - title: "Programming"
+      items: ["JavaScript", "React", "Node.js"]
+    - title: "Web Design"
+      items: ["HTML", "CSS", "Figma"]
+  certificates:
+    - title: "Certified Web Developer"
+      date: "Year Received: 2020"
+      link: "https://www.example.com"

@@ -1,0 +1,10 @@
+data:
+  title: "自己紹介シート"
+  about_me_title: "私について"
+  opinion_title: "意見"
+  history_title: "履歴"
+  skills_title: "スキル"
+  certificates_title: "資格"
+  footer: "Design with 💙 by henryust12"
+  created_with: "Created with Tailwind CSS"
+  link_to_certificates_text: "資格へのリンク"

@@ -1,0 +1,10 @@
+data:
+  title: "Lembar Perkenalan Diri"
+  about_me_title: "Tentang Saya"
+  opinion_title: "Pendapat"
+  history_title: "Riwayat"
+  skills_title: "Keahlian"
+  certificates_title: "Sertifikasi"
+  footer: "Design with 💙 by henryust12"
+  created_with: "Created with Tailwind CSS"
+  link_to_certificates_text: "Tautan ke Sertifikasi"
