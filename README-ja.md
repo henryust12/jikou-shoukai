@@ -21,7 +21,7 @@
    - 次のコマンドを実行して、このリポジトリをコンピュータにクローンします:
 
      ```bash
-     git clone https://github.com/henryust12/jikou-shoukai-temp.git
+     git clone https://github.com/henryust12/jikou-shoukai.git
      ```
 
 ## フォルダー構造

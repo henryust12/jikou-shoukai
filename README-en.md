@@ -21,7 +21,7 @@ To get the source code for this project, you can choose one of the following two
    - Run the following command to clone this repository to your computer:
 
    ```bash
-     git clone https://github.com/henryust12/jikou-shoukai-temp.git
+     git clone https://github.com/henryust12/jikou-shoukai.git
     ```
 
 ## Struktur Folder
@@ -74,7 +74,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contributions and Issues
 
-If you encounter any bugs, have ideas for new features, or need help or have questions, please open an [issue](https://github.com/henryust12/jikou-shoukai-temp/issues) in this repository. We highly value feedback and contributions from the community.
+If you encounter any bugs, have ideas for new features, or need help or have questions, please open an [issue](https://github.com/henryust12/jikou-shoukai/issues) in this repository. We highly value feedback and contributions from the community.
 
 - **How to Contribute**: To contribute to this project, fork the repository, make changes in your branch, and then create a pull request. We will be happy to review and merge your contributions!
 

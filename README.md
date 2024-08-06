@@ -21,7 +21,7 @@ Untuk mendapatkan source code dari proyek ini, kamu bisa memilih salah satu dari
    - Jalankan perintah berikut untuk meng-clone repository ini ke komputer kamu:
 
     ```bash
-     git clone https://github.com/henryust12/jikou-shoukai-temp.git
+     git clone https://github.com/henryust12/jikou-shoukai.git
      ```
 
 ## Struktur Folder
@@ -74,7 +74,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE). Kamu bebas untuk menggu
 
 ## Kontribusi dan Issue
 
-Jika kamu menemukan bug atau memiliki ide untuk fitur baru atau kamu memiliki pertanyaan atau butuh bantuan, silakan buka [issue](https://github.com/henryust12/jikou-shoukai-temp/issues) di repository ini. Kami sangat menghargai masukan dan kontribusi dari komunitas.
+Jika kamu menemukan bug atau memiliki ide untuk fitur baru atau kamu memiliki pertanyaan atau butuh bantuan, silakan buka [issue](https://github.com/henryust12/jikou-shoukai/issues) di repository ini. Kami sangat menghargai masukan dan kontribusi dari komunitas.
 
 - **Cara Berkontribusi:** Untuk berkontribusi pada proyek ini, fork repository ini, buat perubahan di branch kamu, lalu buat pull request. Kami akan dengan senang hati meninjau dan memasukkan kontribusi kamu!
 
